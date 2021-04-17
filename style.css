@@ -1,0 +1,18 @@
+.container {
+    display: block;
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    width: 300px;
+    
+}
+.content {
+    max-height: 200px;
+}
+#more {
+    display: none;
+}
+#hiddencontent {
+    display: none;
+}
